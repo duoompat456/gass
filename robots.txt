@@ -4,4 +4,5 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: sitemap.xml
+
+Sitemap: https://duoompat456.github.io/gass/sitemap.xml
